@@ -91,10 +91,26 @@ The analysis focuses on different aspects of Netflix's content library, includin
 
 ## 📈 Power BI Dashboard
 
-### Dashboard Preview
+## 📊 Dashboard Preview
 
-![Netflix Data Analytics Dashboard](Netflix-Dashboard.png)
-![Netflix Data Analytics Dashboard](Netflix%20Dashboard.png)
+### Page 1
+
+![Netflix Dashboard Page 1](./Netflix-Dashboard1.png)
+
+### Page 2
+
+![Netflix Dashboard Page 2](./Netflix-Dashboard2.png)
+
+### Page 3
+
+![Netflix Dashboard Page 3](./Netflix-Dashboard3.png)
+
+### Page 4
+
+![Netflix Dashboard Page 4](./Netflix-Dashboard4.png)
+
+
+ 
 An interactive Power BI dashboard was developed to present the analysis visually.
 
 ### Dashboard Components
